@@ -6,3 +6,20 @@ What can be done with Text ?
 • Search for relevant text documents
 • Sentiment analysis
 • Topic modeling
+
+Comparison Functions...
+
+• s.startswith(t)
+• s.endswith(t)
+• t in s
+• s.isupper() , s.islower() , s.istitle()
+• s.isalpha() , s.isdigit() , s.isalnum()
+
+String Operations
+
+• s.split(t)
+• s.splitlines()
+• s.join(t)
+• s.strip() , s.rstrip()-reverse
+• s.find(t) , s.rfind(t)
+• s.replace(u,v)
