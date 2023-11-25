@@ -23,3 +23,13 @@ String Operations
 • s.strip() , s.rstrip()-reverse
 • s.find(t) , s.rfind(t)
 • s.replace(u,v)
+
+File Operations
+
+• f = open(filename, mode)
+• f.readline() , f.read() , f.read(n)
+• for line in f : doSomething(line)
+• f.seek(n)
+• f.write(message)
+• f.close()
+• f.closed
